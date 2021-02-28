@@ -5,3 +5,6 @@ Libs used:
   - colorama
   - rich
   - requests
+
+Pic:
+  https://scamming.cf/Ps4o7NWx
