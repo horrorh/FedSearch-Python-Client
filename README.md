@@ -1,2 +1,7 @@
 # FedSearch-Python-Client
-python client for FedSearch
+FedSearch python client made by a member of the community
+
+Libs used:
+  - colorama
+  - rich
+  - requests
