@@ -24,7 +24,7 @@ class FedSearch():
         table.add_column("Database", style="dim", width=25)
 
         DATA = {'search': term, 'key': CONFIG['api_key'], 'submit': ''}
-        r = requests.post(url='https://fedsearch.cf/API/search_api.php', data=DATA).text
+        r = requests.post(url='https://fedsearch.xyz/API/search_api.php', data=DATA).text
         
         json_all = json.loads(r)
 
